@@ -74,7 +74,7 @@ def main():
     running = True
     playing = False
     count = 0
-    update_freq = 20
+    update_freq = 10
     
     positions = set()
     while running:
